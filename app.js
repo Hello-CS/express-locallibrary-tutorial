@@ -50,6 +50,3 @@ app.use(function(err, req, res, next) {
 
 module.exports = app;
 
-
-
-//mongodb+srv://CS:sasuke@cluster0.vtgrn.mongodb.net/local_library?retryWrites=True&w=majority
